@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "author": "Patrice",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "id": "1",
+      "likes": 51
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet dolor sit amet",
+      "author": "Samia",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "likes": 16,
+      "id": "2"
+    },
+    {
+      "title": "Lorem ipsum dolor",
+      "author": "Denis",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti!Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "likes": 107,
+      "id": "3"
+    },
+    {
+      "author": "user42",
+      "title": "bnb",
+      "content": "bnvgv",
+      "likes": 0,
+      "id": "RzLbv0Z"
+    },
+    {
+      "author": "user42",
+      "title": "bnb",
+      "content": "bnvgv",
+      "likes": 0,
+      "id": "cU16AOZ"
+    },
+    {
+      "author": "user42",
+      "title": "encore un article",
+      "content": "fsdfsdf",
+      "likes": 0,
+      "id": "YdioY0v"
+    },
+    {
+      "author": "user42",
+      "title": "nouveuamessage",
+      "content": "coucou",
+      "likes": 0,
+      "id": "QALwM7y"
+    }
+  ],
+  "user": [
+    {
+      "pseudo": "user42",
+      "likes": 2,
+      "age": 30,
+      "id": 1
+    }
+  ]
+}
